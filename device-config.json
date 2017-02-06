@@ -1,0 +1,21 @@
+{
+    "isyUsername": "yourusername",
+    "isyPassword": "yourpassword",
+    "isyBaseUrl": "http://192.168.XXX.XXX/rest/nodes/",
+    "eventGroups": [
+        {
+            "name": "Living Room",
+            "device": "325B5EE5-C7AE-4FAA-9B0D-3A1E16038BD1",
+            "playActions": [ "XX%20XX%20XX%20X/cmd/DOF", "XX%20XX%20XX%20X/cmd/DON/128", "XX%20XX%20XX%20X/cmd/DON/64" ],
+            "pauseActions": [ "XX%20XX%20XX%20X/cmd/DON/128", "XX%20XX%20XX%20X/cmd/DON/128" ],
+            "stopActions": [ "XX%20XX%20XX%20X/cmd/DON", "XX%20XX%20XX%20X/cmd/DON", "XX%20XX%20XX%20X/cmd/DON" ]
+        },
+        {
+            "name": "Media Room",
+            "device": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+            "playActions": [ "XXXXX/cmd/DON" ],
+            "pauseActions": [ "XXXXX/cmd/DON" ],
+            "stopActions": [ "XXXXX/cmd/DON" ]
+        }
+    ]
+}
