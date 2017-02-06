@@ -5,7 +5,7 @@
     "eventGroups": [
         {
             "name": "Living Room",
-            "device": "325B5EE5-C7AE-4FAA-9B0D-3A1E16038BD1",
+            "device": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
             "playActions": [ "XX%20XX%20XX%20X/cmd/DOF", "XX%20XX%20XX%20X/cmd/DON/128", "XX%20XX%20XX%20X/cmd/DON/64" ],
             "pauseActions": [ "XX%20XX%20XX%20X/cmd/DON/128", "XX%20XX%20XX%20X/cmd/DON/128" ],
             "stopActions": [ "XX%20XX%20XX%20X/cmd/DON", "XX%20XX%20XX%20X/cmd/DON", "XX%20XX%20XX%20X/cmd/DON" ]
